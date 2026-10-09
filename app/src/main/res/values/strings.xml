@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">BuySmart AI</string>
+    <string name="app_tagline">Smart Shopping, Smarter Savings</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_compare">Compare</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- Home -->
+    <string name="trending_deals">Trending Deals</string>
+    <string name="price_drops">Price Drops</string>
+    <string name="categories">Categories</string>
+    <string name="personalized_recommendations">Recommended For You</string>
+    <string name="see_all">See All</string>
+    <string name="search_products">Search products...</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="notifications">Notifications</string>
+
+    <!-- Categories -->
+    <string name="category_electronics">Electronics</string>
+    <string name="category_fashion">Fashion</string>
+    <string name="category_home">Home &amp; Living</string>
+    <string name="category_beauty">Beauty</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_books">Books</string>
+    <string name="category_toys">Toys</string>
+    <string name="category_groceries">Groceries</string>
+
+    <!-- Product -->
+    <string name="product_details">Product Details</string>
+    <string name="description">Description</string>
+    <string name="specifications">Specifications</string>
+    <string name="reviews">Reviews</string>
+    <string name="ratings">Ratings</string>
+    <string name="write_review">Write a Review</string>
+    <string name="view_all_reviews">View All Reviews</string>
+    <string name="in_stock">In Stock</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="save_for_later">Save for Later</string>
+    <string name="share">Share</string>
+    <string name="compare_prices">Compare Prices</string>
+    <string name="view_price_history">View Price History</string>
+    <string name="set_price_alert">Set Price Alert</string>
+
+    <!-- Price Comparison -->
+    <string name="price_comparison">Price Comparison</string>
+    <string name="best_price">Best Price</string>
+    <string name="fastest_delivery">Fastest Delivery</string>
+    <string name="delivery">Delivery</string>
+    <string name="seller">Seller</string>
+    <string name="official_store">Official Store</string>
+    <string name="platform">Platform</string>
+    <string name="price">Price</string>
+    <string name="original_price">Original Price</string>
+    <string name="discount">Discount</string>
+    <string name="you_save">You Save</string>
+
+    <!-- Cart -->
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="cart_empty">Empty List</string>
+    <string name="cart_empty_message">Add products to see details</string>
+    <string name="continue_shopping">Continue Browsing</string>
+    <string name="cart_total">Estimate</string>
+    <string name="checkout">Checkout</string>
+
+    <!-- Compare Tab -->
+    <string name="comparison_list">Comparison List</string>
+    <string name="no_items_compare">No products to compare</string>
+    <string name="compare_empty_message">Add products to your comparison list to find the best platform total</string>
+    <string name="continue_browsing">Continue Browsing</string>
+    <string name="comparison_total">Total Estimate</string>
+    <string name="total_platform_savings">Total Platform Savings</string>
+    <string name="checkout_best_platform">Buy from Best Platform</string>
+    <string name="smart_cart_optimizer">AI Platform Optimizer</string>
+    <string name="cheapest_platform">Cheapest Platform</string>
+
+    <!-- Price Alerts -->
+    <string name="price_alerts">Price Alerts</string>
+    <string name="set_target_price">Set Target Price</string>
+    <string name="target_price">Target Price</string>
+    <string name="current_price">Current Price</string>
+    <string name="alert_when_price_drops">Alert me when price drops to</string>
+    <string name="create_alert">Create Alert</string>
+    <string name="no_alerts">No Price Alerts</string>
+    <string name="no_alerts_message">Set price alerts to get notified when prices drop</string>
+    <string name="alert_created">Alert created successfully</string>
+    <string name="alert_triggered">Price dropped below your target!</string>
+
+    <!-- AI Recommendations -->
+    <string name="smart_buy_recommendation">Smart Buy Recommendation</string>
+    <string name="AI_buy_now">Buy Now</string>
+    <string name="wait">Wait</string>
+    <string name="price_likely_to_drop">Price Likely to Drop</string>
+    <string name="best_time_to_buy">Best time to buy is now!</string>
+    <string name="consider_waiting">Consider waiting for a better price</string>
+    <string name="price_analysis">Price Analysis</string>
+    <string name="confidence_score">Confidence Score</string>
+    <string name="predicted_lowest">Predicted Lowest</string>
+    <string name="predicted_drop_date">Predicted Drop Date</string>
+
+    <!-- Value Score -->
+    <string name="value_score">Value Score</string>
+    <string name="excellent_value">Excellent Value</string>
+    <string name="good_value">Good Value</string>
+    <string name="fair_value">Fair Value</string>
+    <string name="poor_value">Poor Value</string>
+
+    <!-- Coupons -->
+    <string name="coupons">Coupons</string>
+    <string name="available_coupons">Available Coupons</string>
+    <string name="coupon_code">Coupon Code</string>
+    <string name="copy_code">Copy Code</string>
+    <string name="apply_coupon">Apply Coupon</string>
+    <string name="success_rate">Success Rate</string>
+    <string name="verified">Verified</string>
+    <string name="expires">Expires</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="no_coupons">No Coupons Available</string>
+
+    <!-- Nearby Stores -->
+    <string name="nearby_stores">Nearby Stores</string>
+    <string name="find_stores">Find Stores</string>
+    <string name="store_name">Store Name</string>
+    <string name="distance">Distance</string>
+    <string name="directions">Directions</string>
+    <string name="call_store">Call Store</string>
+    <string name="open_now">Open Now</string>
+    <string name="closed">Closed</string>
+    <string name="opening_hours">Opening Hours</string>
+    <string name="location_permission_required">Location permission required</string>
+    <string name="enable_location">Please enable location to find nearby stores</string>
+
+    <!-- Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="saved_products">Saved Products</string>
+    <string name="my_alerts">My Alerts</string>
+    <string name="my_orders">My Orders</string>
+    <string name="settings">Settings</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="app_version">Version 1.0.0</string>
+
+    <!-- Settings -->
+    <string name="notifications_settings">Notifications</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="email_notifications">Email Notifications</string>
+    <string name="price_drop_alerts">Price Drop Alerts</string>
+    <string name="deal_alerts">Deal Alerts</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="currency">Currency</string>
+    <string name="inr">Indian Rupee (₹)</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="cache_cleared">Cache cleared successfully</string>
+
+    <!-- Filters & Sorting -->
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="price_range">Price Range</string>
+    <string name="min_price">Min Price</string>
+    <string name="max_price">Max Price</string>
+    <string name="platform_filter">Platform</string>
+    <string name="delivery_time">Delivery Time</string>
+    <string name="rating_filter">Rating</string>
+    <string name="sort_by">Sort By</string>
+    <string name="lowest_price">Lowest Price</string>
+    <string name="highest_price">Highest Price</string>
+    <string name="highest_rating">Highest Rating</string>
+    <string name="newest_first">Newest First</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="clear_filters">Clear Filters</string>
+
+    <!-- Quick Delivery -->
+    <string name="quick_delivery_name">SwiftDash AI</string>
+    <string name="quick_delivery_subtitle">Essential items delivered in 10 mins</string>
+
+    <!-- Messages -->
+    <string name="loading">Loading...</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_results">No results found</string>
+    <string name="try_different_search">Try a different search term</string>
+    <string name="added_to_cart">Added to comparison</string>
+    <string name="removed_from_cart">Removed from comparison</string>
+    <string name="saved">Saved</string>
+    <string name="removed">Removed</string>
+    <string name="copied">Copied to clipboard</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_invalid_password">Password must be at least 6 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_required_field">This field is required</string>
+    <string name="error_login_failed">Login failed. Please check your credentials</string>
+    <string name="error_registration_failed">Registration failed. Please try again</string>
+    <string name="error_google_signin_failed">Google sign-in failed</string>
+
+    <!-- Notification Channels -->
+    <string name="channel_price_alerts">Price Alerts</string>
+    <string name="channel_price_alerts_desc">Get notified when product prices drop</string>
+    <string name="channel_deals">Deals &amp; Offers</string>
+    <string name="channel_deals_desc">Latest deals and special offers</string>
+    <string name="channel_general">General</string>
+    <string name="channel_general_desc">App updates and general notifications</string>
+
+    <!-- Misc -->
+    <string name="google_maps_api_key">YOUR_GOOGLE_MAPS_API_KEY</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="percent_symbol">%</string>
+
+    <!-- Legal Content -->
+    <string name="privacy_policy_content"><![CDATA[
+        <h3>Privacy Policy 2026</h3>
+        <p>Your privacy is important to us at <b>BuySmart AI</b>. This policy outlines how we handle your data in the year 2026 and beyond.</p>
+        <h4>1. Data Collection</h4>
+        <p>We collect information you provide directly to us, such as when you create an account, save products, or set price alerts. This includes your name, email, and preferences.</p>
+        <h4>2. AI Data Usage</h4>
+        <p>Our AI models analyze your shopping behavior to provide personalized recommendations and predict price drops. This data is processed securely and is never sold to third parties.</p>
+        <h4>3. Real-time Monitoring</h4>
+        <p>To provide accurate price alerts, we monitor prices across multiple platforms in real-time. Your target prices are stored securely in our cloud database.</p>
+        <h4>4. Your Rights</h4>
+        <p>You have the right to access, update, or delete your personal information at any time through the app settings.</p>
+    ]]></string>
+
+    <string name="terms_content"><![CDATA[
+        <h3>Terms & Conditions</h3>
+        <p>Welcome to BuySmart AI. By using our application, you agree to the following terms:</p>
+        <h4>1. Use of Service</h4>
+        <p>You agree to use BuySmart AI only for lawful purposes and in a way that does not infringe the rights of others.</p>
+        <h4>2. Pricing Accuracy</h4>
+        <p>While we strive for 100% accuracy, prices across e-commerce platforms change rapidly. BuySmart AI is not responsible for discrepancies between our predicted prices and actual checkout prices.</p>
+        <h4>3. Account Security</h4>
+        <p>You are responsible for maintaining the confidentiality of your account and password.</p>
+        <h4>4. AI Recommendations</h4>
+        <p>Our AI "Buy/Wait" recommendations are based on historical data patterns and should be used as a helpful guide, not as guaranteed financial advice.</p>
+    ]]></string>
+
+    <string name="about_content"><![CDATA[
+        <h3>About BuySmart AI</h3>
+        <p><b>BuySmart AI</b> is the world\'s most advanced AI-powered shopping assistant, launched in 2024 and revolutionized in 2026.</p>
+        <p>Our mission is to help you save money and time by using cutting-edge machine learning to predict price drops, find hidden coupons, and compare millions of products across the web in milliseconds.</p>
+        <p>Developed by a team of shopping experts and AI researchers, BuySmart is your ultimate companion for the modern e-commerce era.</p>
+    ]]></string>
+
+    <string name="help_content"><![CDATA[
+        <h3>Help & Support</h3>
+        <p>Need assistance? We\'re here to help you shop smarter!</p>
+        <h4>Common Questions:</h4>
+        <ul>
+            <li><b>How do Price Alerts work?</b> - Click the bell icon on any product. When the price hits your target, we\'ll send a push notification.</li>
+            <li><b>How does Auto-Coupon work?</b> - Add items to your cart. Our AI automatically scans and applies the best working code at checkout.</li>
+            <li><b>Is my data safe?</b> - Yes, we use 256-bit encryption for all your profile and preference data.</li>
+        </ul>
+        <p>For further support, email us at: <b>support@buysmart.ai</b></p>
+    ]]></string>
+</resources>

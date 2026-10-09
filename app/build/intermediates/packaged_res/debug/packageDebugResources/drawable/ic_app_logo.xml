@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Outer Glow (Simulated) -->
+    <path
+        android:fillColor="#1A6366F1"
+        android:pathData="M50,5C25.1,5 5,25.1 5,50s20.1,45 45,45s45,-20.1 45,-45S74.9,5 50,5z" />
+
+    <!-- Main Shield Shape -->
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M50,15L20,28v25c0,18.5 12.8,35.8 30,40c17.2,-4.2 30,-21.5 30,-40V28L50,15z" />
+
+    <!-- Inner Darker Layer for depth -->
+    <path
+        android:fillColor="@color/primary_dark"
+        android:pathData="M50,22L28,34v20c0,14.5 9.4,28 22,33.5c12.6,-5.5 22,-19 22,-33.5V34L50,22z" />
+
+    <!-- AI Core Node (Brain) -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M50,35c-6.6,0 -12,5.4 -12,12c0,4.8 3.9,8.8 8.7,9.8c0.8,3.2 3.6,5.2 6.3,4.2s3.8,-4.2 2.8,-7.4c2.8,-1.5 4.7,-4.4 4.7,-7.8C60.5,39.5 55.8,35 50,35z" />
+
+    <!-- Emerald Savings Spark -->
+    <path
+        android:fillColor="@color/secondary"
+        android:pathData="M50,42l1.5,4.5l4.5,1.5l-4.5,1.5l-1.5,4.5l-1.5,-4.5l-4.5,-1.5l4.5,-1.5z" />
+
+    <!-- Connecting "Intelligence" Lines -->
+    <path
+        android:strokeColor="#4DFFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M35,45h30M50,30v30M38,38l24,24M38,62l24,-24" />
+
+</vector>

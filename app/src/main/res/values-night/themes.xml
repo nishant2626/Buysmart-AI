@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme - Dark -->
+    <style name="Theme.BuySmartAI" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/on_primary_container</item>
+
+        <!-- Background/Surface -->
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/on_background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        
+        <!-- Component Styles -->
+        <item name="materialButtonStyle">@style/Widget.BuySmart.Button</item>
+        <item name="materialButtonOutlinedStyle">@style/Widget.BuySmart.Button.Outlined</item>
+        <item name="materialCardViewStyle">@style/Widget.BuySmart.CardView</item>
+        <item name="bottomNavigationStyle">@style/Widget.BuySmart.BottomNavigation</item>
+    </style>
+</resources>

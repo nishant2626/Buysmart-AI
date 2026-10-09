@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:scaleX="3.2"
+        android:scaleY="3.2"
+        android:translateX="15.6"
+        android:translateY="15.6">
+
+        <!-- Background Circle -->
+        <path
+            android:fillColor="@color/primary"
+            android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10s10,-4.48 10,-10S17.52,2 12,2z" />
+
+        <!-- Inner Shield/Tag Shape -->
+        <path
+            android:fillColor="@color/primary_dark"
+            android:pathData="M12,6l-6,2.5v5c0,3.7 2.5,7.2 6,8.1c3.5,-0.9 6,-4.4 6,-8.1v-5L12,6z" />
+
+        <!-- Shopping Cart -->
+        <path
+            android:fillColor="@color/white"
+            android:pathData="M7,18c-1.1,0 -1.99,0.9 -1.99,2S5.9,22 7,22s2,-0.9 2,-2S8.1,18 7,18zM17,18c-1.1,0 -1.99,0.9 -1.99,2s0.89,2 1.99,2s2,-0.9 2,-2S18.1,18 17,18zM7.17,14.75l0.03,-0.03h9.45c0.75,0 1.41,-0.41 1.75,-1.03l3.58,-6.49c0.37,-0.66 -0.11,-1.48 -0.87,-1.48H5.21l-0.94,-2H1V5h2l3.6,7.59l-1.35,2.44C4.52,16.37 5.48,18 6.5,18H19v-2H6.5l1.1,-2L7.17,14.75z" />
+
+        <!-- AI Spark -->
+        <path
+            android:fillColor="@color/secondary"
+            android:pathData="M12,9l0.5,1.5l1.5,0.5l-1.5,0.5l-0.5,1.5l-0.5,-1.5l-1.5,-0.5l1.5,-0.5z" />
+    </group>
+
+</vector>

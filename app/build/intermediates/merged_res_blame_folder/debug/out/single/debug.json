@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_trending_down.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_trending_down.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_register.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/font_poppins_italic.ttf.flat",
+        "source": "com.buysmart.ai.app-main-74:/font/poppins_italic.ttf"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_cart.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_platform_chip.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_platform_chip.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_compare.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_compare.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_search.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_google.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_product.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_settings.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_splash_background.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_alerts.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_alerts.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_trending_up.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_trending_up.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_star.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_discount_badge.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_discount_badge.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/font_poppins.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/font/poppins.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_location.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_app_logo_white.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_app_logo_white.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_product_shimmer.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_product_shimmer.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_price_alert.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_price_alert.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_circular_progress.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/circular_progress.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_coupons.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_coupons.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_favorite.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_forgot_password.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_coupon.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_coupon.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_recommendation_buy.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_recommendation_buy.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_rating_badge.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_rating_badge.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_search_bar.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_platform_price.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_platform_price.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_recommendation_likely.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_recommendation_likely.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_app_logo.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_fragment_compare.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/fragment_compare.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_coupon.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_coupon.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_recommendation_wait.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_recommendation_wait.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_saved_products.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_saved_products.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_settings.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_notification.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_nearby_store.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_nearby_store.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_nearby_stores.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_nearby_stores.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_person.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/font_poppins_medium.ttf.flat",
+        "source": "com.buysmart.ai.app-main-74:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_search.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_home.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/xml_data_extraction_rules.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_back.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_edit_profile.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_login.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_fragment_profile.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_notifications.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_category.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_mic.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_bg_category_item.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/bg_category_item.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_main.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_price_comparison.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_price_comparison.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_edit.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/font_poppins_semibold.ttf.flat",
+        "source": "com.buysmart.ai.app-main-74:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_fragment_alerts.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/fragment_alerts.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/font_poppins_bold.ttf.flat",
+        "source": "com.buysmart.ai.app-main-74:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/font_poppins_regular.ttf.flat",
+        "source": "com.buysmart.ai.app-main-74:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_fragment_home.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_shopping_cart.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_share.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.buysmart.ai.app-main-74:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_sort.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_sort.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_item_cart.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_activity_product_details.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_remove.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_delete.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_filter.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/xml_backup_rules.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/drawable_ic_add.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.buysmart.ai.app-merged_res-72:/layout_fragment_search.xml.flat",
+        "source": "com.buysmart.ai.app-main-74:/layout/fragment_search.xml"
+    }
+]
