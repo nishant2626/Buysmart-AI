@@ -77,8 +77,20 @@ Before committing your final code, ensure:
 ---
 
 ## 👨‍💻 Author
-**[Your Name]** - Principal Developer & Designer
+**[Nishant](https://github.com/nishant2626)** - Principal Developer & Designer
 *Experience building future-ready AI products.*
+
+---
+
+## 🤝 Contributors
+
+Thanks to these people for their contributions!
+
+<a href="https://github.com/nishant2626">
+  <img src="https://github.com/nishant2626.png" width="100px;" alt="nishant2626"/>
+  <br />
+  <sub><b>nishant2626</b></sub>
+</a>
 
 ---
 *Developed as a showcase of premium Android Engineering in 2024-2026.*
